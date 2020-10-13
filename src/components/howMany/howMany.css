@@ -1,0 +1,33 @@
+.howMany,
+.minions,
+.gru,
+.meitene,
+.hawaii,
+.girls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 70%;
+  flex-flow: column;
+}
+
+.howMany {
+  background: rgb(21, 12, 31);
+}
+
+.minions {
+  background: url(./minions.png) no-repeat center center;
+}
+.gru {
+  background: url(./gru.png) no-repeat center center;
+}
+.meitene {
+  background: url(./meitene.png) no-repeat center center;
+}
+.hawaii {
+  background: url(./hawaii.png) no-repeat center center;
+}
+.girls {
+  background: url(./girls.png) no-repeat center center;
+}
